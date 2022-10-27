@@ -1,0 +1,35 @@
+.main-sidebar{
+  
+    padding-bottom: 10px;
+}
+
+.left-sidebar{
+    
+    
+    margin-bottom: 3px;
+    width: 30px;
+}  
+
+.left-sidebar a{
+    text-decoration: none;
+    
+    padding: 10px 15px;
+    gap: 15px;
+    width: 30px; 
+    padding-top: 10px;
+    
+}
+.left-sidebar p{
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+.left-sidebar a:hover{
+    background-color:rgb(188, 223, 244);
+    
+}
+.active{
+    background-color: lightskyblue;
+}
+.list-group-hover .list-group-item:hover {
+    background-color: #f5f5f5;
+}
